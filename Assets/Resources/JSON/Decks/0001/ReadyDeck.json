@@ -1,0 +1,279 @@
+﻿{
+    "cards": [
+        {
+            "ID": "D0001",
+            "cardName": "Latigazo",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 5%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0001",
+            "cardName": "Latigazo",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 5%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0001",
+            "cardName": "Latigazo",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 5%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0001",
+            "cardName": "Latigazo",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 5%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0002",
+            "cardName": "Corteza de roble",
+            "cardDescription": "Gana duro (1)",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": "<b>Duro:</> Disminuye el daño causado por el ataque enemigo en 1."
+        },
+        {
+            "ID": "D0002",
+            "cardName": "Corteza de roble",
+            "cardDescription": "Gana duro (1)",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": "<b>Duro:</> Disminuye el daño causado por el ataque enemigo en 1."
+        },
+        {
+            "ID": "D0003",
+            "cardName": "Mis raíces son profundas",
+            "cardDescription": "Consume una carta aleatoria de la mano del enemigo",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0003",
+            "cardName": "Mis raíces son profundas",
+            "cardDescription": "Consume una carta aleatoria de la mano del enemigo.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0004",
+            "cardName": "Entre mis telarañas",
+            "cardDescription": "Incrementa el porcentaje base puntería un 5% y reduce el porcentaje de ataque o defensa base del enemigo otro 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0004",
+            "cardName": "Entre mis telarañas",
+            "cardDescription": "Incrementa el porcentaje base puntería un 5% y reduce el porcentaje de ataque o defensa base del enemigo otro 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0004",
+            "cardName": "Entre mis telarañas",
+            "cardDescription": "Incrementa el porcentaje base puntería un 5% y reduce el porcentaje de ataque o defensa base del enemigo otro 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0005",
+            "cardName": "Siempre vigilante",
+            "cardDescription": "Aumenta en +1 el nivel de ruído de la zona.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0005",
+            "cardName": "Siempre vigilante",
+            "cardDescription": "Aumenta en +1 el nivel de ruído de la zona.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0006",
+            "cardName": "Te ahogaré con mis fuertes ramas",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 3% y causa aturdimiento (1) al enemigo.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": "<b>Aturdimiento:</b> reduce en -X la cantidad de ranuras base de defensa a quien lo padece."
+        },
+        {
+            "ID": "D0006",
+            "cardName": "Te ahogaré con mis fuertes ramas",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 3% y causa aturdimiento (1) al enemigo.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": "<b>Aturdimiento:</b> reduce en -X la cantidad de ranuras base de defensa a quien lo padece."
+        },
+        {
+            "ID": "D0006",
+            "cardName": "Te ahogaré con mis fuertes ramas",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 3% y causa aturdimiento (1) al enemigo.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": "<b>Aturdimiento:</b> reduce en -X la cantidad de ranuras base de defensa a quien lo padece."
+        },
+        {
+            "ID": "D0007",
+            "cardName": "Estáis al borde de la extinción",
+            "cardDescription": "Incrementa el porcentaje base de defensa un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0007",
+            "cardName": "Estáis al borde de la extinción",
+            "cardDescription": "Incrementa el porcentaje base de defensa un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0007",
+            "cardName": "Estáis al borde de la extinción",
+            "cardDescription": "Incrementa el porcentaje base de defensa un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0007",
+            "cardName": "Estáis al borde de la extinción",
+            "cardDescription": "Incrementa el porcentaje base de defensa un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0008",
+            "cardName": "Somos una mente colectiva",
+            "cardDescription": "Consume las dos primeras cartas del mazo del enemigo.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0008",
+            "cardName": "Somos una mente colectiva",
+            "cardDescription": "Consume las dos primeras cartas del mazo del enemigo.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0009",
+            "cardName": "Uníos a nosotros",
+            "cardDescription": "Incrementa el porcentaje de ataque base en una cantidad igual a la diferencia entre este y el porcentaje de defensa base del enemigo.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0010",
+            "cardName": "Las raíces del tiempo",
+            "cardDescription": "Incrementa el porcentaje de defensa o ataque base un 1% x el número de cartas quemadas del enemigo.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "D0010",
+            "cardName": "Las raíces del tiempo",
+            "cardDescription": "Incrementa el porcentaje de defensa o ataque base un 1% x el número de cartas quemadas del enemigo.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        }
+    ]
+}

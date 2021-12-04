@@ -1,0 +1,290 @@
+﻿{
+    "cards": [
+        {
+            "ID": "H0001",
+            "cardName": "Soy el puto John Wayne",
+            "cardDescription": "Activa nuevamente el modificador jugado en la posición anterior. Se activa dos veces en caso de que Harry emplee un arma corta.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "Wayne",
+            "effects": ""
+        },
+        {
+            "ID": "H0001",
+            "cardName": "Soy el puto John Wayne",
+            "cardDescription": "Activa nuevamente el modificador jugado en la posición anterior. Se activa dos veces en caso de que Harry emplee un arma corta.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "Wayne",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0002",
+            "cardName": "Como en la galería",
+            "cardDescription": "Incrementa el porcentaje base de puntería un 10%.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0003",
+            "cardName": "Estoy preparado, sucia criatura",
+            "cardDescription": "Incrementa el porcentaje base de puntería o el porcentaje base de defensa un 5%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0004",
+            "cardName": "Tómate un respiro",
+            "cardDescription": "Incrementa el valor de las características del siguiente modificador de ataque o defensa por 2x.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0004",
+            "cardName": "Tómate un respiro",
+            "cardDescription": "Incrementa el valor de las características del siguiente modificador de ataque o defensa por 2x.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0005",
+            "cardName": "Esto te va a doler",
+            "cardDescription": "Añade un dado d4 a la tirada de daño o dos dados d4 si Harry emplea un arma corta.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0005",
+            "cardName": "Esto te va a doler",
+            "cardDescription": "Añade un dado d4 a la tirada de daño o dos dados d4 si Harry emplea un arma corta.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0006",
+            "cardName": "Recarga",
+            "cardDescription": "Descarta -1 modificador y roba +2 nuevos modificadores. Incrementa el porcentaje base de puntería o defensa un 2%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0006",
+            "cardName": "Recarga",
+            "cardDescription": "Descarta -1 modificador y roba +2 nuevos modificadores. Incrementa el porcentaje base de puntería o defensa un 2%.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0007",
+            "cardName": "Culatazo",
+            "cardDescription": "Produce aturdimiento (1) a la criatura enemiga.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": "<b>Aturdimiento:</b> reduce en -X la cantidad de ranuras base de defensa a quien lo padece."
+        },
+        {
+            "ID": "H0007",
+            "cardName": "Culatazo",
+            "cardDescription": "Produce aturdimiento (1) a la criatura enemiga.",
+            "type": "aim",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkAim",
+            "imageArt": "",
+            "effects": "<b>Aturdimiento:</b> reduce en -X la cantidad de ranuras base de defensa a quien lo padece."
+        },
+        {
+            "ID": "H0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0008",
+            "cardName": "Lento, pero sabio",
+            "cardDescription": "Incrementa el porcentaje de defensa base un 5%.",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": ""
+        },
+        {
+            "ID": "H0009",
+            "cardName": "Esto no quedará así",
+            "cardDescription": "Harry obtiene resilencia (2).",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": "<b>Resilencia:</b> Produce daño X al enemigo si el personaje esquiva el siguiente ataque."
+        },
+        {
+            "ID": "H0009",
+            "cardName": "Esto no quedará así",
+            "cardDescription": "Harry obtiene resilencia (2).",
+            "type": "defense",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkDefense",
+            "imageArt": "",
+            "effects": "<b>Resilencia:</b> Produce daño X al enemigo si el personaje esquiva el siguiente ataque."
+        },
+        {
+            "ID": "H0010",
+            "cardName": "Rompo la baraja",
+            "cardDescription": "Pierde -1 ranura base del tipo de encuentro actual hasta el siguiente descanso. A cambio, vuelve a reanudar el encuentro actual.",
+            "type": "special",
+            "level": 1,
+            "levelMark": "Level1",
+            "frameworkType": "FrameworkSpecial",
+            "imageArt": "",
+            "effects": ""
+        }
+    ]
+}

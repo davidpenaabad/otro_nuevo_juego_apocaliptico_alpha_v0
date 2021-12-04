@@ -1,0 +1,21 @@
+﻿{
+    "enemies": [
+        {
+            "ID": "0001",
+            "name": "Deambulador",
+            "level": 1,
+            "energy": 2,
+            "health": 12,
+            "hand": 4,
+            "damageDices": [ "d4" ],
+            "aimBasePercentage": 25.00,
+            "aimBaseSlots": 4,
+            "defenseBasePercentage": 20.00,
+            "defenseBaseSlots": 4,
+            "specialHabilityName": "Somos especiales",
+            "specialHabilityDescription": "Si el deambulador emplea solo cartas especiales en sus slots produce 5 de daño al enemigo.",
+            "enemyDescription": "Un híbrido entre roble y cangrejo de mar con raíces móviles que emplea para caminar sobre la superficie. Cuidado con sus enorme pinza y sus ramas que emplea como látigos.",
+            "effects": []
+        }
+    ]
+}

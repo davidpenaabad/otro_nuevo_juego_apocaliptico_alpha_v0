@@ -1,0 +1,28 @@
+{
+    "characters": [
+        {
+            "name": "Harry",
+            "level": 1,
+            "energy": 3,
+            "health": 45,
+            "hand": 7,
+            "defaultDices":  1,
+            "damageDices": [
+                "d6"
+            ],
+            "aimBasePercentage": 35.0,
+            "aimBaseSlots": 6,
+            "defenseBasePercentage": 20.0,
+            "defenseBaseSlots": 4,
+            "harvestBasePercentage": 5.0,
+            "harvestBaseSlots": 1,
+            "supportingBaseSlots": 2,
+            "consumptionFoodPerDay": 2,
+            "consumptionWaterPerDay": 3,
+            "specialHabilityName": "Oh, estoy destrozado por los derechos de esa criatura",
+            "specialHabilityDescription": "Harry causa impactos críticos si la diferencia de resultado de ataque contra defensa es mayor de 10, en lugar de 20",
+            "characterDescription": "Policía de la vieja escuela. A pocos días de retirarse cuando el mundo se fue a la mierda. Intransigente, cascarrabias y políticamente incorrecto.",
+            "effects": []
+        }
+    ]
+}
